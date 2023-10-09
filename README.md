@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans+&weight=600&pause=1000&width=435&lines=Henlo+to+profile+of+Santig+Benites)](https://git.io/typing-svg)
 
-<!--
-**SantigBenites/SantigBenites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Info:
+    
+- Currenly getting my masters in Cybersecurity at University of Lisbon
 
-Here are some ideas to get you started:
+- Working as sysadmin for adminDI at FCUL in Univeristy of Lisbon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Available Languages
+
+- Java
+- Python
+- C
+- Rust
+- Javascript
+    
+
+<img src="./snek.svg">
+
+<!--- https://github.com/rzashakeri/beautify-github-profile 
+--->
