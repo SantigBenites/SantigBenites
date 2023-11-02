@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans+&weight=600&pause=1000&width=435&lines=Henlo+to+profile+of+Santig+Benites)](https://git.io/typing-svg)
-
 Info:
     
 - Currenly getting my masters in Cybersecurity at University of Lisbon
